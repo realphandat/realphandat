@@ -1,0 +1,8 @@
+{
+	"intro": "https://raw.githubusercontent.com/realphandat/realphandat/main/phandat-selfbot/intro.txt",
+
+	"key": {
+		"payment": "https://raw.githubusercontent.com/realphandat/realphandat/main/phandat-selfbot/key/payment.txt",
+		"trial": "https://raw.githubusercontent.com/realphandat/realphandat/main/phandat-selfbot/key/trial.txt"
+	}
+}
